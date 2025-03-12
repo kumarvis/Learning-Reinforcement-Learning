@@ -1,4 +1,4 @@
-# Learning-Reinforcement-Learning
+# Learning Reinforcement-Learning
 
 # 30-Day Reinforcement Learning Learning Plan
 
