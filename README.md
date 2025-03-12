@@ -1,6 +1,6 @@
 # Learning Reinforcement-Learning
 
-# 30-Day Reinforcement Learning Learning Plan
+## 30-Day Reinforcement Learning Learning Plan
 
 ## Module 1: Foundations & Prerequisites (Days 1–5)
 
